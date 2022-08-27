@@ -297,7 +297,7 @@ export interface CardPrinted extends CardBase {
 	/**
 	 * If the card is oversized.
 	 */
-	isOverSized?: boolean;
+	isOversized?: boolean;
 
 	/**
 	 * If the card is a promotional printing.
